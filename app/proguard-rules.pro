@@ -15,6 +15,7 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+
 -keep class com.android.support.v7.** { *; }
 -keep class com.kyanogen.** { *; }
 -keep class com.github.** { *; }
